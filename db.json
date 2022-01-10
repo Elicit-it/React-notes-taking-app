@@ -1,19 +1,29 @@
 {
   "notes": [
     {
-      "id": 1,
-      "body": "Todays Agenda\n- Chamber of commerce meeting\n- Standup meeting\n- Dinner",
-      "updated": "2021-08-31T16:18:41.809Z"
+      "body": "Try\nthis this is an other try notes\n",
+      "updated": "2022-01-10T01:45:03.583Z",
+      "id": 4
     },
     {
-      "id": 2,
-      "body": "Take out trash\n",
-      "updated": "2021-08-30T21:34:55.203Z"
+      "body": "Just an other try\n\n 123",
+      "updated": "2022-01-10T01:45:46.927Z",
+      "id": 5
     },
     {
-      "id": 3,
-      "body": "Wash car",
-      "updated": "2021-07-13T19:46:12.187306Z"
+      "body": "More.....\n\nmore and more\n",
+      "updated": "2022-01-10T01:19:59.593Z",
+      "id": 6
+    },
+    {
+      "body": "How to test this app\n1. - cd notes-app\n2. - npm install\n3. - npm run server //STARTS JSON SERVER ON PORT 5000\n4. - npm start  //STARTS REACT SERVER",
+      "updated": "2022-01-10T01:37:34.590Z",
+      "id": 7
+    },
+    {
+      "body": "123\n1. - cd notes-app\n2. - npm install\n3. - npm run server //STARTS JSON SERVER ON PORT 5000\n4. - npm start  //STARTS REACT SERVER",
+      "updated": "2022-01-10T01:37:40.941Z",
+      "id": 9
     }
   ]
 }

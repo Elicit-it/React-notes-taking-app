@@ -64,7 +64,7 @@ a {
 
 .app {
   width: 100%;
-  max-width: 480px;
+  max-width: 680px;
   height: 88vh;
   margin: 0 auto;
   background-color: var(--color-white);
@@ -87,6 +87,13 @@ a {
   color: var(--color-dark);
   font-weight: 800;
   text-align: center;
+}
+
+.app-footer h1 {
+  font-size: 10px;
+  color: var(--color-main);
+  font-weight: 200;
+  text-align: left;
 }
 
 .app-header button {
